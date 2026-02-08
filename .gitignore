@@ -1,6 +1,6 @@
 # Prerequisites
 *.d
-
+audio-engine/audio-files/*
 # Compiled Object files
 *.slo
 *.lo
